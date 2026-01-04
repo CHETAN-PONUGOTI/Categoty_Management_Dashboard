@@ -1,0 +1,4 @@
+# ignore .evn files
+.env
+# ignore node modules
+node_modules/
